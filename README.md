@@ -33,7 +33,7 @@ This Power BI project provides a comprehensive sales analysis of Amazon’s prod
 ## 📬 Contact
 **Muzaffar Muzzu**  
 📧 amrmuzaffar46@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/muzaffarmuzzu)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/muzaffar-muzzu-242b37323)
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
