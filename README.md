@@ -36,4 +36,4 @@ This Power BI project provides a comprehensive sales analysis of Amazon’s prod
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/muzaffarmuzzu)
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](.png)
+![Dashboard Preview](snapshot Amazon Dashboard.png)
